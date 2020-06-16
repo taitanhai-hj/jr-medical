@@ -1,0 +1,8 @@
+{
+  "name": "mobile-side",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "64b838b1"
+}
